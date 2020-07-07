@@ -1,5 +1,6 @@
 ![](image/SloganWanderson.png)
 
-# Projec:
-  #Income
-  #Diabets
+# Projects:
+  # Income
+  
+  # Diabets
